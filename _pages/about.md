@@ -15,6 +15,7 @@ redirect_from:
 
 Expériences clés
 ======
+
 👨🏻‍🔬 Expérience professionnelle
 ------
 Actuellement en dernière année d'études ingénieur, je travaille sur un projet étudiant visant à... . Ce projet est en collaboration avec ... et sous la supervision du professeur ... .
