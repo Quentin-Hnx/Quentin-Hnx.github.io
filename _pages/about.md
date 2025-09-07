@@ -13,11 +13,16 @@ redirect_from:
 
 📽️ Je suis aujourd'hui à la recherche d'une opportunité de stage de fin d'études à partir de mi-mars 2026.
 
-A data-driven personal website
+Expériences clés
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+👨🏻‍🔬 Expérience professionnelle
+------
+Actuellement en dernière année d'études ingénieur, je travaille sur un projet étudiant visant à... . Ce projet est en collaboration avec ... et sous la supervision du professeur ... .
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Mon stage de quatrième année m'a permis de travailler en tant qu'assistant de recherche à l'Université de Calgary, au sein du groupe de recherche nommé [Reacting Flow and Numerical Group Methods](https://rockettroopers.wixsite.com/stormtrooper) sous la supervision du Dr. Leo Fang. Ainsi, le sujet de recherche principal a été l'implémentation du transfert de chaleur fluide-solide pour un fluide réactif au sein d'un solveur OpenFOAM nommé EBIdnsFoam.
+
+En outre, j'ai également pu avoir des expériences en industrie en tant qu'Assistant Méthodes au sein de La Toque Angevine avec pour principal objectif d'aider au développement de la maintenance préventive. 
+
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
