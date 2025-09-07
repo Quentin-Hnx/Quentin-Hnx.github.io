@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Je suis étudiant ingénieur en dernière année à [Polytech Orléans](https://www.univ-orleans.fr/fr/polytech) avec pour spécialisation, le domaine des énergies. Mon parcours m'a permis de développer une solide expertise en optimisation des systèmes énergétiques, en mécanique des fluides numérique (CFD) et en conception de systèmes énergétiques innovants.
+
 Mes expériences académiques et de recherche portent sur des travaux sur la simulation avancée des écoulements réactifs, avec un intérêt particulier pour l'hydrogène sur des problématiques de transfert thermique fluide-solide. J'accorde une importance particulière à l'utilisation des outils numériques pur relever des défis énergétiques concrets, optimiser la performance des systèmes et contribuer au développement de technologies durables.
 
 A data-driven personal website
