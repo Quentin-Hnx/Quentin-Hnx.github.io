@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bonjour, je suis Quentin Hesnaux"
+title: "👋 Bonjour, je suis Quentin Hesnaux"
 author_profile: true
 redirect_from: 
   - /about/
