@@ -20,11 +20,19 @@ Expériences clés
 ------
 Actuellement en dernière année d'études ingénieur, je travaille sur un projet étudiant visant à... . Ce projet est en collaboration avec ... et sous la supervision du professeur ... .
 
-Mon stage de quatrième année m'a permis de travailler en tant qu'assistant de recherche à l'Université de Calgary, au sein du groupe de recherche nommé [Reacting Flow and Numerical Group Methods](https://rockettroopers.wixsite.com/stormtrooper) sous la supervision du Dr. Leo Fang. Ainsi, le sujet de recherche principal a été l'implémentation du transfert de chaleur fluide-solide pour un fluide réactif au sein d'un solveur OpenFOAM nommé EBIdnsFoam.
+Mon stage de quatrième année m'a permis de travailler en tant qu'**assistant de recherche** à l'Université de Calgary, au sein du groupe de recherche nommé [Reacting Flow and Numerical Group Methods](https://rockettroopers.wixsite.com/stormtrooper) sous la supervision du Dr. Leo Fang. Ainsi, le sujet de recherche principal a été l'implémentation du transfert de chaleur fluide-solide pour un fluide réactif au sein d'un solveur OpenFOAM nommé EBIdnsFoam.
 
-En outre, j'ai également pu avoir des expériences en industrie en tant qu'Assistant Méthodes au sein de La Toque Angevine avec pour principal objectif d'aider au développement de la maintenance préventive. 
+En outre, j'ai également pu avoir des expériences en industrie en tant qu'**Assistant Méthodes** au sein de La Toque Angevine avec pour principal objectif d'aider au développement de la maintenance préventive. 
 
+🤖 Travaux Open Source
+------
+J'ai pu contribuer à des travaux sur le logiciel open source OpenFOAM, plus particulièrement sur le solveur EBIdnsFoam avec pour principal objectif de développer un couplage multi-physique fluide-solide.
 
+📜 Analyse d'articles scientifiques
+------
+J'ai
+
+<!--
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
@@ -62,3 +70,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
