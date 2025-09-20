@@ -1,5 +1,5 @@
 ---
-title: "STELLANTIS - Projet ingénieur"
+title: "<img src='/images/stellantis-logo.png' style='width:40px; vertical-align:middle; margin-right:10px;'> STELLANTIS - Projet ingénieur"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 logo: "/images/stellantis-logo.png"
 collection: portfolio
