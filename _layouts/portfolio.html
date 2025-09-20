@@ -5,7 +5,9 @@ layout: default
 <article class="portfolio-item">
   <header>
     {% if page.logo %}
-      <img src="{{ page.logo | relative_url }}" alt="{{ page.title }}" style="width:48px; height:auto; margin-right:12px; vertical-align:middle;">
+      <img src="{{ page.logo | relative_url }}" 
+           alt="{{ page.title }}" 
+           style="width:48px; height:auto; margin-right:12px; vertical-align:middle;">
     {% endif %}
     <h1 style="display:inline-block; vertical-align:middle;">{{ page.title }}</h1>
   </header>
