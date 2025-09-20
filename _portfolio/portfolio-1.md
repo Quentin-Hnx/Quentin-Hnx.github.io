@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/stellantis-logo.png' style='width:100px; vertical-align:middle; margin-right:10px;'> STELLANTIS - Projet ingénieur"
+title: "<img src='/images/stellantis-logo.png' style='width:100px; vertical-align:middle; margin-right:10px;'> Projet ingénieur en collaboration avec le laboratoire PRISME et Stellantis"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 logo: "/images/stellantis-logo.png"
 collection: portfolio
