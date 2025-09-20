@@ -1,14 +1,20 @@
 ---
-layout: portfolio
-title: "Projets"
+layout: default
+title: Projets
 permalink: /portfolio/
 author_profile: true
 ---
+<h1>{{ page.title }}</h1>
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<ul>
+  {% for item in site.portfolio %}
+    <li>
+      <a href="{{ item.url | relative_url }}">
+        {% if item.logo %}
+          <img src="{{ item.logo | relative_url }}" alt="{{ item.title }}" style="width:36px; vertical-align:middle; margin-right:8px;">
+        {% endif %}
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
