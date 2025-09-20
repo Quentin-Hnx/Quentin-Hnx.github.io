@@ -1,6 +1,7 @@
 ---
 title: "STELLANTIS - Projet ingénieur"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+logo: "/images/stellantis-logo.png"
 collection: portfolio
 ---
 
